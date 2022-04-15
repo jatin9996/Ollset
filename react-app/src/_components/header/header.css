@@ -1,0 +1,25 @@
+.loginForm {
+  width: 100%;
+}
+
+.header-menu-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.header-user-icon {
+  border: 6px solid white;
+  border-radius: 50%;
+  background: burlywood;
+  width: 50px;
+  height: 50px;
+
+}
+.dropdown button{ 
+  background: transparent !important;
+  border: none !important;
+  padding: 0px  !important;
+}
+.dropdown button:focus{ 
+  box-shadow: none !important;
+}
